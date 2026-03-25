@@ -1,5 +1,6 @@
 # Dental Appointment System
-SmileCare Dental
+<img width="157" height="52" alt="image" src="https://github.com/user-attachments/assets/5c10d486-4f24-46fa-9bf6-c4e3f78ef54c" />
+
 
 A system built using Python and Flask, created by Gilbert and Yuan.
 
